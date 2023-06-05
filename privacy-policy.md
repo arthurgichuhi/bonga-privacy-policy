@@ -17,13 +17,13 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-###Personal Information
+### Personal Information
 Personal information like email, phone number, user's name are used to create a profile to enable the app user interact fully use the apps features. Phone numbers are also used to facilitate constrained media sharing and profile visibility among users.
 
-###Photos and Videos
+### Photos and Videos
 Photos and videos shared on the app are stored as chat information when users interact, story information to facilitate 24 hour media sharing and also provide user profile pictures.
 
-###Audio
+### Audio
 Audio shared on this app are purely user generated when interacting with other users on chats as audio mesages.
 
 ### Service Providers  
