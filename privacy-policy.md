@@ -9,19 +9,22 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to user's name, email address, phone-number, pictures, audio, videos. The information that we request will be retained by us and used as described in this privacy policy.  
+The app does use third party services that may collect information used to facilitate application functionality. 
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+###Personal Information
+Personal information like email, phone number, user's name are used to create a profile to enable the app user interact fully use the apps features. Phone numbers are also used to facilitate constrained media sharing and profile visibility among users.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+###Photos and Videos
+Photos and videos shared on the app are stored as chat information when users interact, story information to facilitate 24 hour media sharing and also provide user profile pictures.
+
+###Audio
+Audio shared on this app are purely user generated when interacting with other users on chats as audio mesages.
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
