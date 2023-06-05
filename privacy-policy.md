@@ -21,7 +21,7 @@ This Services does not uses these “cookies” explicitly. However, the app may
 Personal information like email, phone number, user's name are used to create a profile to enable the app user interact fully use the apps features. Phone numbers are also used to facilitate constrained media sharing and profile visibility among users.
 
 ### Photos and Videos
-Photos and videos shared on the app are stored as chat information when users interact, story information to facilitate 24 hour media sharing and also provide user profile pictures.
+Photos and videos shared on the app are stored as chat information when users interact, story information to facilitate 24 hour media sharing and also provide user profile pictures. 
 
 ### Audio
 Audio shared on this app are purely user generated when interacting with other users on chats as audio mesages.
